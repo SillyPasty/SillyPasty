@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 📊 This week I spend my time on
 <!--START_SECTION:waka-->
 
 ```text
