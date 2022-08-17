@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,12 +22,12 @@ CLion                    1 min               ░░░░░░░░░░░�
 IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-Mac                      7 hrs 14 mins       █████████████████████████   100.0%
+Mac                      3 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/08/2022 01:05:44 UTC
+ Last Updated on 17/08/2022 01:02:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
