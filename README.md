@@ -10,19 +10,18 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 55 mins        █████████████████████████   99.68% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/01/2023 00:48:50 UTC
+ Last Updated on 07/01/2023 00:45:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
