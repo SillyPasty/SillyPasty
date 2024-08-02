@@ -10,17 +10,17 @@
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     56 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/08/2024 00:51:50 UTC
+ Last Updated on 02/08/2024 00:46:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
